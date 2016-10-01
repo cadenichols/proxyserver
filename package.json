@@ -1,0 +1,27 @@
+{
+  "name": "proxyserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cadenichols/proxyserver.git"
+  },
+  "keywords": [],
+  "author": "Cade Nichols <cade@codinghouse.co>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cadenichols/proxyserver/issues"
+  },
+  "homepage": "https://github.com/cadenichols/proxyserver#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "request": "^2.75.0"
+  }
+}
